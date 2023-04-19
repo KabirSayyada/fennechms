@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744438243452",
+    "project_id": "fennechms",
+    "storage_bucket": "fennechms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744438243452:android:66924134b50eea1c45a9f9",
+        "android_client_info": {
+          "package_name": "com.fennechms.fennechms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744438243452-mbknher08a3kju7ltgpvul1i2hp3c45a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh7QndHXz0eRQ7YyZxoxepB6Qu-F8TTo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744438243452-mbknher08a3kju7ltgpvul1i2hp3c45a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
