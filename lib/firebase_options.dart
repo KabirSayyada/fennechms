@@ -17,10 +17,9 @@ import 'package:flutter/foundation.dart'
 /// );
 /// ```
 
-
-await Firebase.initializeApp(
-options: DefaultFirebaseOptions.currentPlatform,
-);
+// await Firebase.initializeApp(
+// options: DefaultFirebaseOptions.currentPlatform,
+// );
 
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
@@ -75,7 +74,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '744438243452',
     projectId: 'fennechms',
     storageBucket: 'fennechms.appspot.com',
-    iosClientId: '744438243452-p8co8b5l4firrat593t766ig2s6ike7q.apps.googleusercontent.com',
+    iosClientId:
+        '744438243452-p8co8b5l4firrat593t766ig2s6ike7q.apps.googleusercontent.com',
     iosBundleId: 'com.fennechms.fennechms',
   );
 
@@ -85,7 +85,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '744438243452',
     projectId: 'fennechms',
     storageBucket: 'fennechms.appspot.com',
-    iosClientId: '744438243452-p8co8b5l4firrat593t766ig2s6ike7q.apps.googleusercontent.com',
+    iosClientId:
+        '744438243452-p8co8b5l4firrat593t766ig2s6ike7q.apps.googleusercontent.com',
     iosBundleId: 'com.fennechms.fennechms',
   );
 }
